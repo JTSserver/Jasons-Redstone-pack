@@ -1,6 +1,6 @@
 # Jasons-Redstone-pack
 Redstonepack relese here
-Go to [release](https://github.com/JTSserver/Jasons-Redstone-pack/releases) to get the pack
+Go to [Releases](https://github.com/JTSserver/Jasons-Redstone-pack/releases) to get the pack
 wanna be a member? join https://discord.gg/S4R48bq
 
 [LICENSE:](https://creativecommons.org/licenses/by-nc-sa/3.0/hk/)
